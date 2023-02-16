@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color: rgba(31, 0, 15, 0.796);
+    width: auto;
+    height: auto;
+}
+
+.up {
+    color: white;
+}
+
+
+/* sait */
+.center {
+    background-color: rgba(217, 217, 199, 0.555);
+}
+
+
+
+
+
+
+
+
+
+/* sait */
+
+/* BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON */
+.cls2 {
+    background-color: rgba(31, 0, 15, 0.796);
+    font-size: 20px;
+    color: white;
+    font-size: small;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
+
+.cls3 {
+    margin: 10px;
+    background-color: rgba(31, 0, 15, 0.796);
+    font-size: 20px;
+    color: white;
+    font-size: small;
+    width: 100px;
+    height: 30px;
+}
+
+/* BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON BUTTON */
+
+img {
+    border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.link:hover {
+    color: black;
+
+}
+
+.h2 {
+    text-align: center;
+    color: white;
+}
+
+.h-2 {
+    text-align: center;
+    color: black;
+}
+
+/* DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV */
+
+
+
+.Skills {
+    margin-top: 60px;
+
+}
+
+.Skills2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+.verh {
+    padding-top: 10px;
+    margin-bottom: 100px;
+}
+
+.Objective {
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.content {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.Ncontent {
+    display: inline-block;
+    margin: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.content1 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.info {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.block {
+    width: 100px;
+    text-align: left;
+    margin-left: 20px;
+    padding-right: 100px;
+
+}
+
+.block-2 {
+    width: 1300px;
+    text-align: left;
+    margin-left: 20px;
+    padding-right: 100px;
+}
+
+.block2 {
+
+    display: inline-block;
+    text-align: left;
+    margin-left: -17px;
+}
+
+.block-1 {
+    margin-top: 40px;
+}
+
+.block1 {
+    padding: 30px 30px;
+}
+
+.ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+/* DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV DIV */
+
+/* SECTION SECTION SECTION SECTION SECTION SECTION SECTION */
+
+.sen {
+    padding: 10px 20px;
+
+}
+
+/* SECTION SECTION SECTION SECTION SECTION SECTION SECTION */
+
+/* P P P P P P P P P P P P P P P P P P P P P P P P  */
+
+.niz {
+    text-align: center;
+    color: white;
+}
+
+
+
+/* P P P P P P P P P P P P P P P P P P P P P P P P  */
+
+
+/* FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM */
+
+.text {
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #6C5F6C;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    resize: none;
+    display: inline-block;
+    margin-right: 12px;
+
+}
+
+.txtarea {
+
+    width: 600px;
+    border: none;
+    border-bottom: 1px solid #6C5F6C;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    resize: none;
+}
+
+.naddown {
+    background-color: rgba(173, 166, 202, 0.445);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM FORM */
+
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+
+.down {
+    background-color: rgba(31, 0, 15, 0.796);
+
+}
+
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+
+
+.ul2 {
+    list-style-type: none;
+}
